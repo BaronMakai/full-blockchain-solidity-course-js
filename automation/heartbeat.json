@@ -1,0 +1,16 @@
+{
+  "timestamp": 1678886400,
+  "status": "healthy",
+  "version": "1.0.0",
+  "uptime": 3600,
+  "block_height": 1234567,
+  "peers": 10,
+  "cpu_usage": 0.25,
+  "memory_usage": 0.6,
+  "disk_space_available": "100GB",
+  "network_latency": 10,
+  "last_block_hash": "0xabcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890",
+  "transactions_per_second": 50,
+  "pending_transactions": 5,
+  "errors": []
+}
